@@ -1,7 +1,3 @@
-Here’s a more concise GitHub-ready version of your README that keeps your style and core info:
-
----
-
 <p align="center"> <img src="docs/assets/plagues.png" alt="Plagues" width="80%"/> </p>
 # PLAGUES DOCTOR
 
