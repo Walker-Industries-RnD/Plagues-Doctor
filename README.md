@@ -72,4 +72,3 @@ Workers are elevated, platform-specific services:
 
 ---
 
-If you want, I can make an **even snappier 1-page version** that fits GitHub README preview perfectly without scrolling. It would cut the “How it works” steps into a super minimal list. Do you want me to do that?
