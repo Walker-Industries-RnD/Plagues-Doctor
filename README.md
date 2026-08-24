@@ -1,5 +1,9 @@
 <p align="center"> <img src="docs/assets/plagues.png" alt="Plagues" width="80%"/> </p>
+
 # PLAGUES DOCTOR
+
+>WARNING
+> This project has been discontinued for the new Visual Studio template around the newer version of Plagues Protocol.
 
 Plague Doctor is a privacy-first tool for managing Plague Protocol systems with minimal setup. Secure, offline, and post-quantum resistant, it lets you deploy cross-platform communication systems effortlessly.
 
